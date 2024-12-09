@@ -1,0 +1,10 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+dnspython==2.5.0
+idna==3.6
+ntplib==0.4.0
+ping3==4.0.4
+prompt-toolkit==3.0.43
+requests==2.31.0
+urllib3==2.1.0
+wcwidth==0.2.13
