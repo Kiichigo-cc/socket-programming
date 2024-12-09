@@ -1,4 +1,4 @@
-# --- README Recommended application instructions for Network Monitor, echo server, and client ---
+# --- Recommended application instructions for Network Monitor, echo server, and client ---
 
 # --- Executing the network monitor program ---:
 This program was coded in a virtual python environment (venv) on Python 3.12.1 in Windows 10.
